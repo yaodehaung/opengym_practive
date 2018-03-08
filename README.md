@@ -1,10 +1,8 @@
 OpenAI Gym
 **********
+**OpenAI Gym 是一個開發工具以及編譯學習的演算法**
+``gym`` 是一個開源的圖庫給我們標準的開發環境的過程
 
-**OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.** This is the ``gym`` open-source library, which gives you access to a standardized set of environments.
-
-.. image:: https://travis-ci.org/openai/gym.svg?branch=master
-    :target: https://travis-ci.org/openai/gym
 
 `See What's New section below <#what-s-new>`_
 
